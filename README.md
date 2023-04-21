@@ -22,6 +22,6 @@ This course was my first real exposure to embedded systems and I think that the 
 
 The concept of state machines will, I think, be especially valuable in other coding endeavours. The focus on extreme economy and efficiency was also a stimulating challenge, and could be especially applicable to writing device drivers, which is something else I have wanted to turn my hand to. 
 
-- **How did you make this project maintainable, read/able, and adaptable?**
+- **How did you make this project maintainable, readable, and adaptable?**
 
 I did my best to ensure that the code was broken down into individual functions and that related data was stored together and I commented the code where appropriate. However, as noted above, this is an area where I feel I have room for improvement so I will continue to work on better organizing my code in the future.
